@@ -35,7 +35,7 @@ export default function Header() {
         {/* Logo */}
         <div className="flex-shrink-0">
           <img 
-            src="/logo.jpg" 
+            src="./logo.jpg" 
             alt="OCSIIA Logo" 
             className="h-12 w-auto object-contain"
           />
